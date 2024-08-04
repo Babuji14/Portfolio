@@ -9,7 +9,7 @@ Welcome to my personal portfolio repository. This website showcases my skills, p
 - **Contact Section**: A form for visitors to reach out to me directly, with submissions sent to my email.
 - **Responsive Design**: Optimized for both desktop and mobile viewing, ensuring a seamless experience across devices.
 
-** Technologies Used**
+**Technologies Used**
 - **HTML5 & CSS3**
 - **JavaScript**
 - **Java**
